@@ -1,1 +1,1 @@
-# Neural-Guitar-Cabinet-Emulator-Plugin
+# Neural Network-Based Guitar Cabinet Emulator Plugin
